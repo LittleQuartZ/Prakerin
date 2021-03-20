@@ -3,11 +3,11 @@
 }
 
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: #a2d0c1;
 }
 
-.about {
+#about {
   background-color: #eff7e1;
 }
 
@@ -23,4 +23,12 @@
   #skills #content div.col-sm-3 {
     width: 75%;
   }
+}
+
+#contact {
+  background-color: #eff7e1;
+}
+
+footer {
+  background-color: #a2d0c1;
 }
