@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #214151;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #a2d0c1;
+}
+
+.about {
+  background-color: #eff7e1;
+}
+
+#skills {
+  background-color: #a2d0c1;
+}
+
+.progress-bar {
+  background-color: #f8dc81;
+}
+
+@media only screen and (max-width: 576px) {
+  #skills #content div.col-sm-3 {
+    width: 75%;
+  }
+}
